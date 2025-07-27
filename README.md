@@ -1,4 +1,12 @@
 **Portfolio**
+Live Preview - [Click Here](https://davanuroza.github.io/my-portofolio-react/)
+
+<br/>
+<div align="center">
+  <img alt="Demo" src="https://github.com/davanuroza/my-portofolio-react/blob/gh-pages/image.png" />
+</div>
+<br/>
+<br/>
 
 # 🛠 Installation and Setup Instructions
 
@@ -35,3 +43,5 @@ Pull Requests are welcome :)
 ## Show your support
 
 Give a ⭐ if you like this website!
+
+forked from gurupawar/portfolio-react
